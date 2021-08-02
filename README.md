@@ -1,4 +1,11 @@
-### Hi there 👋
+## Paul here. Thanks for dropping by! 👋
+
+
+Full stack software engineer and graduate of Flatiron School. Training and Development background teaching, writing about and working with software both commercial and proprietary. Insatiably curious and always eager to learn new things! 
+
+### Projects
+**CineMagic!** [Demo](https://drive.google.com/file/d/1Dm6FJQR7OnA9dtP3KdTjQqAznBxxcrBw/view?usp=sharing) | [Frontend Repo](https://github.com/SwellPF/cinemagic-frontend)
+
 
 <!--
 **SwellPF/SwellPF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
